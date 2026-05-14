@@ -1,8 +1,4 @@
 # Data-Cleaning-Analysis
-Retail sales data cleaning and exploratory analysis using Python and pandas.
-
-
-# Retail Sales Data Cleaning & Analysis
 
 This project demonstrates a practical data cleaning and exploratory analysis workflow using Python and pandas on a retail sales dataset.
 
